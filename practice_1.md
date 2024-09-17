@@ -1,3 +1,4 @@
-<picture>
-	<image src="./test_image.jpg" alt="" caption="Practice 1">
-</picture>
+### Практическая работа №1
+
+## Задание №1
+<image src="Prac1/1_1.jpg" alt="">
