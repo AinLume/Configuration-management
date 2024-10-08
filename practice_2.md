@@ -12,3 +12,7 @@
 ![](https://github.com/AinLume/Configuration-management/blob/main/practice_2/qwerty.png)
 
 # Задание №4
+![](https://github.com/AinLume/Configuration-management/blob/main/practice_2/2_4.jpg)
+
+# Задание №5
+![](https://github.com/AinLume/Configuration-management/blob/main/practice_2/2_5.jpg)
