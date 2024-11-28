@@ -1,0 +1,8 @@
+#(COM1, COM2, COM3)
+{
+  baudrate = 9600
+  parity = None
+  databits = 8
+}
+MAX_CONNECTIONS := 5
+![MAX_CONNECTIONS]

@@ -1,0 +1,14 @@
+<configuration>
+    <array>
+        <value>math</value>
+        <value>physics</value>
+        <value>chemistry</value>
+    </array>
+    <dict>
+        <item name="math">5</item>
+        <item name="physics">4</item>
+        <item name="chemistry">3</item>
+    </dict>
+    <constant_declaration name="TOTAL_SUBJECTS">3</constant_declaration>
+    <constant_computation name="TOTAL_SUBJECTS"/>
+</configuration>

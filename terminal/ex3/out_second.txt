@@ -1,0 +1,8 @@
+#(math, physics, chemistry)
+{
+  math = 5
+  physics = 4
+  chemistry = 3
+}
+TOTAL_SUBJECTS := 3
+![TOTAL_SUBJECTS]

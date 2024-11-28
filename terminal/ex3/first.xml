@@ -1,0 +1,15 @@
+<configuration>
+    <array>
+        <value>COM1</value>
+        <value>COM2</value>
+        <value>COM3</value>
+    </array>
+    <dict>
+        <item name="baudrate">9600</item>
+        <item name="parity">None</item>
+        <item name="databits">8</item>
+    </dict>
+    <constant_declaration name="MAX_CONNECTIONS">5</constant_declaration>
+    <constant_computation name="MAX_CONNECTIONS"/>
+</configuration>
+
